@@ -1,3 +1,3 @@
 # Carousel
 
-![](screenshots/carousel.png)
+![](screenshot/coarousel.png)
