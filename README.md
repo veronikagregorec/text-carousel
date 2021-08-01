@@ -1,5 +1,5 @@
 # Carousel
 
-Created with HTML, CSS and JavaScript 
+Created with HTML, CSS and JavaScript.
 
 ![](screenshot/coarousel.png)
