@@ -1,4 +1,4 @@
-# Carousel
+# Text Carousel
 
 Created with HTML, CSS and JavaScript
 
